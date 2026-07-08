@@ -9,6 +9,10 @@
 - [验收清单-SiteFlow-MVP-v1.5.md](验收清单-SiteFlow-MVP-v1.5.md) — M1–M5 + TX-1~9 + CV-1~5 测试用例
 - [种子用户内测指南.md](种子用户内测指南.md) — A/B 角色操作、已知限制、反馈模板
 - [Release-Notes-SiteFlow-MVP-v1.5.md](Release-Notes-SiteFlow-MVP-v1.5.md) — 轻量发布说明
+- [上线风险清单-SiteFlow-MVP-v1.5.md](上线风险清单-SiteFlow-MVP-v1.5.md) — 上线风险与 Launch Gate
+- [研发进度摘要-SiteFlow-MVP-v1.5.md](研发进度摘要-SiteFlow-MVP-v1.5.md) — 研发跟进周报
+- [后续需求候选项-SiteFlow-MVP.md](后续需求候选项-SiteFlow-MVP.md) — P1/P2 需求池
+- [内测启动清单.md](内测启动清单.md) — 内测 Beta 启动 Checklist
 
 ## 跟踪事项（GitHub Issues）
 - [#1 B2C 税费/运费](https://github.com/sai19875-droid/TAPD/issues/1)
