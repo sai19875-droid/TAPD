@@ -5,6 +5,7 @@
 ## 文档交付物
 - [PRD-核心闭环-MVP.md](PRD-核心闭环-MVP.md) — 产品需求文档 v1.5（主文档）
 - [PRD-核心闭环-MVP-v1.5.pdf](PRD-核心闭环-MVP-v1.5.pdf) — PRD 评审稿（PDF，中文 Noto Serif CJK 渲染）
+- [PRD-核心闭环-MVP-v1.5.docx](PRD-核心闭环-MVP-v1.5.docx) — PRD 评审稿（Word 版，便于分发）
 - [验收清单-SiteFlow-MVP-v1.5.md](验收清单-SiteFlow-MVP-v1.5.md) — M1–M5 + TX-1~9 + CV-1~5 测试用例
 - [种子用户内测指南.md](种子用户内测指南.md) — A/B 角色操作、已知限制、反馈模板
 - [Release-Notes-SiteFlow-MVP-v1.5.md](Release-Notes-SiteFlow-MVP-v1.5.md) — 轻量发布说明
